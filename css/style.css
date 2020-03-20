@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* line 1, ../../WEB-DEVELOPER COURSE BY UDEMY/Проект-3/sass/style.sass */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 14, ../../WEB-DEVELOPER COURSE BY UDEMY/Проект-3/sass/style.sass */
+
+.block {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* line 20, ../../WEB-DEVELOPER COURSE BY UDEMY/Проект-3/sass/style.sass */
+
+.title {
+  width: 200px;
+  height: 180px;
+  text-align: center;
+  display: block;
+  background-color: blue;
+  color: yellow;
+}
+
+/* line 25, ../../WEB-DEVELOPER COURSE BY UDEMY/Проект-3/sass/style.sass */
+
+.title2 {
+  width: 200px;
+  height: 180px;
+  text-align: center;
+  display: block;
+  background-color: red;
+  color: yellow;
+}
+
+/* line 30, ../../WEB-DEVELOPER COURSE BY UDEMY/Проект-3/sass/style.sass */
+
+.title3 {
+  width: 200px;
+  height: 180px;
+  text-align: center;
+  display: block;
+  background-color: black;
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */
